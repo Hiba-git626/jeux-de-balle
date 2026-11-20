@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jeux-de-balles2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jeux_de_balles_jar/jeux-de-balles.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jeux_de_balles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jeux_de_balles_jar</output-path>
+    <root id="archive" name="jeux_de_balles.jar">
+      <element id="module-output" name="jeux_de_balles" />
+    </root>
+  </artifact>
+</component>
